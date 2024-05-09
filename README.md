@@ -6,6 +6,7 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/stevenjwest/testpkg/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/stevenjwest/testpkg/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/gh/stevenjwest/testpkg/graph/badge.svg?token=FFQ7YBV9UP)](https://codecov.io/gh/stevenjwest/testpkg)
 <!-- badges: end -->
 
 The goal of testpkg is to create R Package.
